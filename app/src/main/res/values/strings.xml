@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MSEB</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Verification Report</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Select</item>
+        <item>Stud Type</item>
+        <item>Box Type</item>
+
+    </string-array>
+
+    <string-array name="mtype_array">
+        <item>Select</item>
+        <item>WHOLE</item>
+        <item>CT OPT</item>
+
+    </string-array>
+
+    <string-array name="cct_ratio_array">
+        <item>Select</item>
+        <item>50/5</item>
+        <item>100/5</item>
+        <item>200/5</item>
+
+    </string-array>
+
+    <string-array name="shifts_array">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string name="action_example">Example action</string>
+
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Verification Report</string>
+    <string name="title_section4">Contact Us</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
